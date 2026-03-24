@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Anmol Sharma</h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&center=true\&vCenter=true\&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Cool+Stuff+🚀)
+
 <p align="center">
   🚀 Full Stack Developer | Creative Tech Enthusiast <br>
   💡 Building modern, animated & user-friendly web experiences
@@ -63,7 +63,7 @@ const anmol = {
 
 ## 📊 GitHub Stats
 
-![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolwebdeveloper\&show_icons=true\&theme=tokyonight)
 
 ---
 
