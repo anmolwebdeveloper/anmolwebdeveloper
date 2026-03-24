@@ -100,93 +100,6 @@
   <p><i>Handcrafted with obsessive attention to detail</i></p>
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ Project Alpha</h3>
-      <div align="center">
-        <a href="https://github.com/anmolwebdeveloper" target="_blank">
-          <img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge" />
-        </a>
-        <a href="https://github.com/anmolwebdeveloper" target="_blank">
-          <img src="https://img.shields.io/badge/⚙_SOURCE-0d1117?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        A full-stack web application with real-time features, modern UI and blazing-fast performance. Built for scale.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌌 Project Nova</h3>
-      <div align="center">
-        <a href="https://github.com/anmolwebdeveloper" target="_blank">
-          <img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge" />
-        </a>
-        <a href="https://github.com/anmolwebdeveloper" target="_blank">
-          <img src="https://img.shields.io/badge/⚙_SOURCE-0d1117?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        An interactive 3D web experience with stunning animations and immersive UI. Pushing creative limits.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs" />
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Project Nexus</h3>
-      <div align="center">
-        <a href="https://github.com/anmolwebdeveloper" target="_blank">
-          <img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge" />
-        </a>
-        <a href="https://github.com/anmolwebdeveloper" target="_blank">
-          <img src="https://img.shields.io/badge/⚙_SOURCE-0d1117?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        AI-powered SaaS product with intuitive UX, smart dashboards, and seamless API integrations.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎨 Project Aether</h3>
-      <div align="center">
-        <a href="https://github.com/anmolwebdeveloper" target="_blank">
-          <img src="https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=for-the-badge" />
-        </a>
-        <a href="https://github.com/anmolwebdeveloper" target="_blank">
-          <img src="https://img.shields.io/badge/⚙_SOURCE-0d1117?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        Design-first UI component library with glassmorphism, dark aesthetics, and zero-compromise visuals.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <!-- ░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░ -->
@@ -205,18 +118,6 @@
 <br/>
 
 [![Anmol's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anmolwebdeveloper&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700&area=true&hide_border=true)](https://github.com/anmolwebdeveloper)
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anmolwebdeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/anmolwebdeveloper)
 
 </div>
 
