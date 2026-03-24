@@ -10,9 +10,9 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-  <a href="https://YOUR_PORTFOLIO_LINK">Portfolio</a>
+  <a href="https://github.com/anmolwebdeveloper">GitHub</a> •
+  <a href="https://linkedin.com/in/anmolwebdeveloper">LinkedIn</a> •
+  <a href="https://anmolsharma-one.vercel.app">Portfolio</a>
 </p>
 
 ---
