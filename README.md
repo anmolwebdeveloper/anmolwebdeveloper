@@ -25,9 +25,9 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=anmolwebdeveloper&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/anmolwebdeveloper)
-[![GitHub Followers](https://img.shields.io/github/followers/anmolwebdeveloper?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/anmolwebdeveloper?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/anmolwebdeveloper?style=for-the-badge&color=ffd700&labelColor=0d1117&label=STARS)](https://github.com/anmolwebdeveloper)
+[![Profile Views](https://komarev.com/ghpvc/?username=anmolwebdeveloper&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/anmolsharma170)
+[![GitHub Followers](https://img.shields.io/github/followers/anmolwebdeveloper?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/anmolsharma170?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/anmolwebdeveloper?style=for-the-badge&color=ffd700&labelColor=0d1117&label=STARS)](https://github.com/anmolsharma170)
 
 </div>
 
@@ -166,9 +166,9 @@ const anmol = {
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolwebdeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolsharma11)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/anmolwebdeveloper)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/anmolwebdeveloper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/anmolsharma170)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmosh2004@gmail.com)
 
 ---
