@@ -117,7 +117,7 @@
 
 <br/>
 
-[![Anmol's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anmolwebdeveloper&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700&area=true&hide_border=true)](https://github.com/anmolsharma170)
+[![Anmol's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anmolsharma170&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700&area=true&hide_border=true)](https://github.com/anmolsharma170)
 
 </div>
 
