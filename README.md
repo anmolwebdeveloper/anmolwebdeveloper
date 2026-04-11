@@ -25,9 +25,9 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=anmolwebdeveloper&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/anmolsharma170)
-[![GitHub Followers](https://img.shields.io/github/followers/anmolwebdeveloper?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/anmolsharma170?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/anmolwebdeveloper?style=for-the-badge&color=ffd700&labelColor=0d1117&label=STARS)](https://github.com/anmolsharma170)
+[![Profile Views](https://komarev.com/ghpvc/?username=anmolsharma170&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/anmolsharma170)
+[![GitHub Followers](https://img.shields.io/github/followers/anmolsharma170?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/anmolsharma170?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/anmolsharma170?style=for-the-badge&color=ffd700&labelColor=0d1117&label=STARS)](https://github.com/anmolsharma170)
 
 </div>
 
