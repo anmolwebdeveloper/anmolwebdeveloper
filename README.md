@@ -1,4 +1,4 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+# <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║           ANMOL SHARMA — GITHUB PROFILE README              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
@@ -113,7 +113,8 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolsharma170&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=12" />
+<!-- ✅ FIXED: Replaced broken herokuapp URL with demolab -->
+<img src="https://streak-stats.demolab.com/?user=anmolsharma170&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=12" />
 
 <br/>
 
@@ -145,7 +146,7 @@ const anmol = {
   architecture    : ["SPA", "SSR", "REST APIs", "Microservices"],
   currentlyVibing : "Building something that makes jaws drop 🤯",
   lifePhilosophy  : () => {
-    while (alive) {
+    while (true) {
       eat(); sleep(); code(); design(); repeat();
     }
   }
@@ -166,9 +167,10 @@ const anmol = {
 
 ## 🌐 Let's Connect
 
+<!-- ✅ FIXED: Update the LinkedIn, Twitter/X, and Portfolio URLs below with your real links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolsharma11)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/anmolwebdeveloper)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/anmolsharma170)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anmolwebdeveloper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio-url.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmosh2004@gmail.com)
 
 ---
@@ -180,7 +182,7 @@ const anmol = {
 ```
 ╔═══════════════════════════════════════╗
 ║  "First, solve the problem.           ║
-║   Then, write the code."              ║ 
+║   Then, write the code."              ║
 ╚═══════════════════════════════════════╝
 ```
 
