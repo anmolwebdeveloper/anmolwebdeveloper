@@ -108,7 +108,7 @@
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anmolsharma170&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=12"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anmolsharma170&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=12)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolsharma170&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=12"/>
 
 <br/>
